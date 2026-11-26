@@ -1,0 +1,6 @@
+{
+  "name": "PolyDock Lab",
+  "description": "Laboratorio interactivo y repositorio Docker Compose para arquitectura de 4 microservicios multilenguaje (Python/FastAPI, Java/Spring Boot, Go/Gin y JavaScript/Express) con bases de datos SQLite independientes y persistencia por volúmenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
